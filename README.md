@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HMVarshney
 - 👀 I’m interested in Javascript(ReactJS, NextJS, NodeJS).
-- 🌱 I’m currently learning Web Socketts.
+- 🌱 I’m currently learning Web Sockets.
 - 💞️ I’m looking to collaborate on any freelance or large scale project.
 - 📫 How to reach me: mail me at hmv0071@outlook.com
 
